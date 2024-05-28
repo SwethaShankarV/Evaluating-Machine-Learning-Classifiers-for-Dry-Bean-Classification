@@ -77,9 +77,6 @@ We welcome contributions to improve this project. Please fork the repository and
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-We would like to thank our supervisor and the Department of Electrical Engineering for their support and guidance throughout this project.
-
 ---
 
 Enjoy using the Dry Bean Classification project! If you encounter any issues, please feel free to open an issue in the repository.
