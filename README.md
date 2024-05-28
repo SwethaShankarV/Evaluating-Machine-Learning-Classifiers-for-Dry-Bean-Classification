@@ -71,12 +71,6 @@ Key findings:
 
 For detailed results and analysis, please refer to the `Report.pdf` file.
 
-## Contributing
-We welcome contributions to improve this project. Please fork the repository and create a pull request with your changes. Ensure your code follows the style guidelines and is well-documented.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Enjoy using the Dry Bean Classification project! If you encounter any issues, please feel free to open an issue in the repository.
