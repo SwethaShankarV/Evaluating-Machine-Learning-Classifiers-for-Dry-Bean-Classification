@@ -72,5 +72,3 @@ Key findings:
 For detailed results and analysis, please refer to the `Report.pdf` file.
 
 ---
-
-Enjoy using the Dry Bean Classification project! If you encounter any issues, please feel free to open an issue in the repository.
